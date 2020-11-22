@@ -1,0 +1,8 @@
+
+name : m
+dob : 3
+marks 1: 23
+marks 2 : 12
+marks 3 : 11
+average :15
+total : 46
